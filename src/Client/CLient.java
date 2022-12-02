@@ -1,6 +1,8 @@
-package client;
+package Client;
 
-import util.Response;
+
+
+import Util.Response;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

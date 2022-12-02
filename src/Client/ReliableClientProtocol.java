@@ -1,7 +1,7 @@
-package client;
+package Client;
 
-import util.Packet;
-import util.Timer;
+import Util.Packet;
+import Util.Timer;
 
 import java.io.IOException;
 import java.net.*;

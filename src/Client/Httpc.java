@@ -1,4 +1,4 @@
-package client;
+package Client;
 
 import java.io.*;
 import java.nio.file.Files;
@@ -6,10 +6,11 @@ import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
 import java.net.*;
+
+import Util.Response;
 import joptsimple.OptionParser;
 import joptsimple.OptionSet;
 import org.apache.tools.ant.types.Commandline;
-import util.Response;
 
 public class Httpc{
 
